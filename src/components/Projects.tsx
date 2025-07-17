@@ -14,7 +14,7 @@ const Projects = () => {
 
   const smallerProjects = [
     {
-      title: "MLplay",
+      title: "Python Library-> MLplay",
       description: "PyTorch-based ML library with CUDA support, hyperparameter tuning, mixed-precision and distributed training.",
       image:
         "mlplay.png",
