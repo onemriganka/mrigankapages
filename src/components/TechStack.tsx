@@ -5,7 +5,7 @@ const TechStack = () => {
     { name: 'React', img: "react.jpg" },
     { name: 'Spring Boot', img: "spring.jpg" },
     { name: 'TF / Torch', img: "tf.jpg" },
-    { name: 'CUDA', img: "cuda.jpg" },
+    { name: 'CUDA', img: "nvidia.png" },
   ];
 
   const languages = ['Python', 'JavaScript', 'Java', 'C++ / CUDA'];
