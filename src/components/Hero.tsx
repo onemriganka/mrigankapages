@@ -19,7 +19,7 @@ const Hero = () => {
                 + Apps (sometimes) 
               </p>
               <button className="w-auto text-lg border px-3 py-1 rounded-xl font-semibold bg-orange-300 hover:bg-orange-500">
-                <a href="google.com" target="_blank">
+                <a href= "https://drive.google.com/file/d/11D1qjFv4bOwV8MqyUkRLYSnhMhTuwHGF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </button>
